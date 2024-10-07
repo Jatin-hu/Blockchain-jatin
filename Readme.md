@@ -1,4 +1,4 @@
-Certainly! Below is the README file for your `FreelancerEscrow` smart contract:
+
 
 ---
 
@@ -46,4 +46,4 @@ The Freelancer Escrow Smart Contract aims to bridge the trust gap between client
 
 ---
 
-Feel free to update the README file as new features are added to your project!
+
